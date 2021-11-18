@@ -1,6 +1,6 @@
-# Neo Chat
+# Neo Core
 
-###### Made by OkSpy, for </>Neo vRP Hub.
+###### Made by OkSpy, for Neo Wiki.
 
 Bun venit, si multumesc ca ai intentia de a descarca aceasta resursa. Acesta este un core vRP, ce este mai mult un sablon customizabil pentru orice scripter. Inlude deja urmatoarele scripturi:
 - NoNPC
