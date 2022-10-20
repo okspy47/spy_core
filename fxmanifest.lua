@@ -7,8 +7,8 @@ games {'gta5'}
 client_scripts {
     "lib/Tunnel.lua",
     "lib/Proxy.lua",
-	'client/*.lua',
-    'client/*.js',
+    "client/*.lua",
+    "client/*.js",
 }
 
 server_scripts {
@@ -16,7 +16,8 @@ server_scripts {
 	"server/*.lua"
 }
 
---ui_page 'html/ui.html' -- Optional Doar Daca ai HTML
+-- Optional Doar Daca ai HTML
+--ui_page 'html/ui.html'
 
 files {
     -- Pui aici doar fisiere HTML sau de alt tip, folosind sintaxa de mai jos
